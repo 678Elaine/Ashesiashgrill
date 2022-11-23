@@ -29,7 +29,7 @@
 	
 	<h1>Add Service </h1>
 	<div >
-        <form action="../Actions/add_service.php" method="POST" enctype="multipart/form-data">
+        <form action="../Actions/create_service.php" method="POST" enctype="multipart/form-data">
 
             <br>
             <label for=""> Service </label>
