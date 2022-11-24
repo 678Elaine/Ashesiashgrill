@@ -26,17 +26,17 @@
     <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="View/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="View/css/style.css" rel="stylesheet">
 </head>
 
 <body>
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border position-relative text-primary" style="width: 6rem; height: 6rem;" role="status"></div>
-        <img class="position-absolute top-50 start-50 translate-middle" src="img/iconash.png" alt="Icon">
+        <img class="position-absolute top-50 start-50 translate-middle" src="View/img/iconash.png" alt="Icon">
     </div>
     <!-- Spinner End -->
 
@@ -77,13 +77,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.php" class="nav-item nav-link">Home</a>
-                <a href="about.php" class="nav-item nav-link active">About</a>
-                <a href="services.php" class="nav-item nav-link">Services</a>
-                <a href="appointment.php" class="nav-item nav-link">Appointments</a>
-                <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
+                <a href="View/index.php" class="nav-item nav-link">Home</a>
+                <a href="View/about.php" class="nav-item nav-link active">About</a>
+                <a href="View/services.php" class="nav-item nav-link">Services</a>
+                <a href="View/appointment.php" class="nav-item nav-link">Appointments</a>
+                <!-- <a href="View/contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
-            <a href="booking.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
+            <a href="View/booking.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
         </div>
     </nav>
     <!-- Navbar End -->
