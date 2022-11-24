@@ -6,7 +6,7 @@
     $result = createCategories_ctr($cat_name);
 
     if($result){
-        header("location: ../view/index.php");
+        header("location: ../View/index.php");
     }
 
 ?>
