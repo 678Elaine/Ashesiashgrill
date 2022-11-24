@@ -6,7 +6,7 @@
     require_once("../Controllers/service_controller.php");
 
     function displayAllBooking($customer_id){
-        $total = 0;
+        $total = 1;
         $counter = 1;
         $allbooking = get0neBookingCustomer_ctr($customer_id);
         if($allbooking){
