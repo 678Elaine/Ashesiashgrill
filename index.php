@@ -202,7 +202,7 @@
                             <h3 class="mb-3">Food</h3>
                             <p class="mb-4">1 hour</p>
                             <p class="mb-4">GHC50.00</p>
-                            <a class="btn" href="View/appointment.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
+                            <a class="btn" href="View/login.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@
                             <h3 class="mb-3">Snacks</h3>
                             <p class="mb-4">1 hour</p>
                             <p class="mb-4">GHC50.00</p>
-                            <a class="btn" href="View/appointment.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
+                            <a class="btn" href="View/login.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
                         </div>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                             <h3 class="mb-3">Clothes</h3>
                             <p class="mb-4">1 hour</p>
                             <p class="mb-4">GHC50.00</p>
-                            <a class="btn" href="View/appointment.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
+                            <a class="btn" href="View/login.php"><i class="fa fa-plus text-primary me-3"></i>Book Now</a>
                         </div>
                     </div>
                 </div>
