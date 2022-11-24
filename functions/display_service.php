@@ -19,8 +19,8 @@ function showServicesUsers_fnc()
         $servicename = $brand['service_name'];
         $serviceimage= $brand['service_image'];
         $serviceprice = $brand['price'];
-       // $cateName = $brand['cat_name '];
-        showServicesRow_fnc($serviceId , $servicename, $serviceimage,$serviceprice);
+        $cateName = $brand['cat_name '];
+        showServicesRow_fnc($serviceId , $servicename, $serviceimage,$serviceprice,$cateName);
     }
 
     echo "
