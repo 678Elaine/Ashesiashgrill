@@ -1,5 +1,5 @@
 <?php
-require("../Functions/display_service.php");
+require("../functions/display_service.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
