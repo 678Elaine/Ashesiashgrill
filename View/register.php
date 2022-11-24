@@ -131,19 +131,19 @@
                                         <div class="form-outline mb-4">
                                             <label class="form-label" for="formCountry">Telephone Number</label>
                                             <input type="number" id="formCountry" name="number" class="form-control"
-                                                placeholder="Country" />
+                                                placeholder="Phone Number" />
                                         </div>
 
                                         <div class="form-outline mb-4">
                                             <label class="form-label" for="formCity">Business Name</label>
                                             <input type="text" id="formCity" name="business_name" class="form-control"
-                                                placeholder="City" />
+                                                placeholder="Business Name" />
                                         </div>
 
                                         <div class="form-outline mb-4">
                                             <label class="form-label" for="formContact">Student ID</label>
                                             <input type="text" id="formContact" name="student_id" class="form-control"
-                                                placeholder="Contact" />
+                                                placeholder="Student ID" />
                                         </div>
 
                                         </div>
