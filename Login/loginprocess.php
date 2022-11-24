@@ -38,7 +38,8 @@ if (isset($_POST['submit'])) {
             echo 'Invalid password.';
         }
     } else {
-        echo "Email unaviable";
+        echo "Email unavailable";
+        header("location:../View/login.php");
     }
 }
 
