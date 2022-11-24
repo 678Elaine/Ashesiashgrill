@@ -36,7 +36,7 @@
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border position-relative text-primary" style="width: 6rem; height: 6rem;" role="status"></div>
-        <img class="position-absolute top-50 start-50 translate-middle" src="img/iconash.png" alt="Icon">
+        <img class="position-absolute top-50 start-50 translate-middle" src="View/img/iconash.png" alt="Icon">
     </div>
     <!-- Spinner End -->
 
@@ -70,7 +70,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
         <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-            <h1 class="text-primary m-0"><img class="me-3" src="img/iconash.png" alt="Icon">AshGrill</h1>
+            <h1 class="text-primary m-0"><img class="me-3" src="View/img/iconash.png" alt="Icon">AshGrill</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -78,11 +78,11 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <!-- <a href="index.php" class="nav-item nav-link active">Home</a>
-                <a href="about.php" class="nav-item nav-link">About</a>
-                <a href="services.php" class="nav-item nav-link">Services</a>
-                <a href="appointment.php" class="nav-item nav-link">Appointments</a> -->
+                <a href="View/about.php" class="nav-item nav-link">About</a>
+                <a href="View/services.php" class="nav-item nav-link">Services</a>
+                <a href="View/appointment.php" class="nav-item nav-link">Appointments</a> -->
             </div>
-            <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
+            <!-- <a href="View/contact.php" class="nav-item nav-link">Contact</a> -->
         </div>
         <a href="../Login/login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Book Now!</a>
         </div>
@@ -103,7 +103,7 @@
                                 <div class="card-body p-md-5 mx-md-4">
 
                                 <div class="text-center">
-                                        <img src="img/iconash.png" style="width: 185px; height: 100px;"
+                                        <img src="View/img/iconash.png" style="width: 185px; height: 100px;"
                                             alt="Register">
                                         <h4 class="mt-1 mb-5 pb-1">Login</h4>
                                     </div>
