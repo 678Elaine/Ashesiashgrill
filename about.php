@@ -36,7 +36,7 @@
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border position-relative text-primary" style="width: 6rem; height: 6rem;" role="status"></div>
-        <img class="position-absolute top-50 start-50 translate-middle" src="img/iconash.png" alt="Icon">
+        <img class="position-absolute top-50 start-50 translate-middle" src="View/img/iconash.png" alt="Icon">
     </div>
     <!-- Spinner End -->
 
@@ -112,8 +112,8 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
                         
-                        <img class="img-fluid" src="img/iconash.png" alt="">
-                        <img class="img-fluid" src="img/ashgrill.png" alt="">
+                        <img class="img-fluid" src="View/img/iconash.png" alt="">
+                        <img class="img-fluid" src="View/img/ashgrill.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
