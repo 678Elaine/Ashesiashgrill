@@ -110,10 +110,7 @@ require("../Functions/display_appointment.php");
     </div>
     <!-- Page Header End -->
 
-    <!-- <?php if(isset($_SESSION['isLogin'])) 
-             echo "login.php";
-            
-            ?> -->
+   
 
 
     <!-- Appointment Start -->
