@@ -117,7 +117,7 @@
   </thead>
   <tbody>
     <?php 
-        $total = 0;
+        $total = 1;
         if(isset($_SESSION['customerId'])){
             $total = displayAllBooking($_SESSION['customerId']);
         }
