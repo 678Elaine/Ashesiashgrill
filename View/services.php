@@ -1,6 +1,6 @@
-<!-- <?php
+<?php
 // require("../functions/display_service.php");
-?> -->
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -110,7 +110,7 @@
 
 
     <!-- About Start -->
-// <!--     <?php echo showServicesUsers_fnc(); ?> -->
+    <?php echo showServicesUsers_fnc(); ?> 
     
     <!-- About End -->
 
