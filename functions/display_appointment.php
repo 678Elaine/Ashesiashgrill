@@ -36,7 +36,7 @@ function showAppointmentRow_fnc($appointmentId, $appointmentday,$appointmentDate
       <td>$appointmentDate</td>
       <td>$appointmentTime</td>
       <td>
-      <a href = '?appointment_id=$appointmentId'class='btn btn-primary btn-sm active' role='button' aria-pressed='true'><i class='bi bi-x-diamond-fill'></i></a>
+      <a href = 'booking.php?appointment_id=$appointmentId'class='btn btn-primary btn-sm active' role='button' aria-pressed='true'><i class='bi bi-x-diamond-fill'></i></a>
       </td>
 
     </tr>
