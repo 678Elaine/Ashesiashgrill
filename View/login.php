@@ -84,7 +84,7 @@
             </div>
             <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
         </div>
-        <a href="../Login/login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Book Now!</a>
+<!--         <a href="../Login/login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Book Now!</a> -->
         </div>
     </nav>
     <!-- Navbar End -->
