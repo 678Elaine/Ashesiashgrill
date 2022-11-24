@@ -7,7 +7,7 @@ function showServicesUsers_fnc()
     echo "<table class='table'>
     <thead class='table-dark'>
       <tr>
-      <th scope='col'>Serivice Name Day</th>
+      <th scope='col'>Service Name Day</th>
         <th scope='col'>Service Price</th>
         <th scope=''>Go To Booking</th> 
       </tr>

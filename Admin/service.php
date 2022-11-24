@@ -17,7 +17,7 @@
 <body>
 <nav>
 			<div class="nav-wrapper">
-				<a href="#" class="brand-logo">Ash Grill Admin Panel</a>
+				<a href="#" class="brand-logo">AshGrill Admin Panel</a>
 				<ul id="nav-mobile" class="right hide-on-med-and-down">
 					
 				</ul>
