@@ -9,7 +9,7 @@
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="View/img/iconash.png" rel="icon">
+    <link href="img/iconash.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,22 +21,22 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="View/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="View/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="View/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="View/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="View/css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 </head>
 
 <body>
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border position-relative text-primary" style="width: 6rem; height: 6rem;" role="status"></div>
-        <img class="position-absolute top-50 start-50 translate-middle" src="View/img/iconash.png" alt="Icon">
+        <img class="position-absolute top-50 start-50 translate-middle" src="img/iconash.png" alt="Icon">
     </div>
     <!-- Spinner End -->
 
@@ -69,8 +69,8 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-        <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
-            <h1 class="text-primary m-0"><img class="me-3" src="View/img/iconash.png" alt="Icon">AshGrill</h1>
+        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+            <h1 class="text-primary m-0"><img class="me-3" src="img/iconash.png" alt="Icon">AshGrill</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -79,11 +79,11 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link">Home</a>
                 <a href="about.php" class="nav-item nav-link active">About</a>
-<!--                 <a href="services.php" class="nav-item nav-link">Services</a>
-                <a href="appointment.php" class="nav-item nav-link">Appointments</a> -->
+                <a href="services.php" class="nav-item nav-link">Services</a>
+                <a href="appointment.php" class="nav-item nav-link">Appointments</a>
                 <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
-            <a href="View/login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
+            <a href="booking.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -112,8 +112,8 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
                         
-                        <img class="img-fluid" src="View/img/iconash.png" alt="">
-                        <img class="img-fluid" src="View/img/ashgrill.png" alt="">
+                        <img class="img-fluid" src="img/iconash.png" alt="">
+                        <img class="img-fluid" src="img/ashgrill.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -195,14 +195,14 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="View/lib/wow/wow.min.js"></script>
-    <script src="View/lib/easing/easing.min.js"></script>
-    <script src="View/lib/waypoints/waypoints.min.js"></script>
-    <script src="View/lib/counterup/counterup.min.js"></script>
-    <script src="View/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="View/lib/tempusdominus/js/moment.min.js"></script>
-    <script src="View/lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="View/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/tempusdominus/js/moment.min.js"></script>
+    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
