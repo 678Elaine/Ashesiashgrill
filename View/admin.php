@@ -268,6 +268,7 @@ require("../functions/getAllCategories.php");
     <!-- Contact End -->
     <?php
     include("../calendar.php");
+    ?>
 
 
     <!-- Google Map Start -->
