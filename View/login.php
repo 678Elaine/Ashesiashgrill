@@ -114,7 +114,7 @@
 
                                         <div class="form-outline mb-4">
                                             <label class="form-label" for="formEmail">Email</label>
-                                            <input type="email" id="formEmail" name="email" class="form-control"
+                                            <input type="email" id="formEmail" name="email" id="email-address" class="form-control"
                                                 placeholder="Email address" />
                                         </div>
 
@@ -137,6 +137,7 @@
                                         </div>
 
                                     </form>
+                                    <script src="payment.js"></script>
 
                                 </div>
                             </div>
