@@ -89,7 +89,7 @@ require("../functions/display_appointment.php");
                 <a href="#" class="nav-item nav-link active">Appointments</a>
                 <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
-            <a href="booking.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
+            <a href="login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Log Out</a>
         </div>
     </nav>
     <!-- Navbar End -->
