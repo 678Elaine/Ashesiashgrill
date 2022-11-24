@@ -1,5 +1,5 @@
 <?php
-// require("../functions/display_service.php");
+require("../Functions/display_service.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -72,7 +72,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+        <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
             <h1 class="text-primary m-0"><img class="me-3" src="img/iconash.png" alt="Icon">AshGrill</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -96,12 +96,12 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
-            <h1 class="display-1 text-white animated slideInDown">About Us</h1>
+            <h1 class="display-1 text-white animated slideInDown">Services</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb text-uppercase mb-0">
                     <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
                     <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
-                    <li class="breadcrumb-item text-primary active" aria-current="page">About</li>
+                    <li class="breadcrumb-item text-primary active" aria-current="page">Services</li>
                 </ol>
             </nav>
         </div>
@@ -110,7 +110,7 @@
 
 
     <!-- About Start -->
-    <?php echo showServicesUsers_fnc(); ?> 
+    <?php echo showServicesUsers_fnc(); ?>
     
     <!-- About End -->
 
