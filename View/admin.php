@@ -267,7 +267,7 @@ require("../functions/getAllCategories.php");
     </div>
     <!-- Contact End -->
 <!--     <?php
-    include("../calendar.php");
+//     include("../calendar.php");
     ?> -->
 
 
