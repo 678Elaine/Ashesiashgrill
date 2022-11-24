@@ -77,8 +77,8 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="View/index.php" class="nav-item nav-link active">Home</a>
-                <a href="about.php" class="nav-item nav-link">About</a>
+                <a href="#" class="nav-item nav-link active">Home</a>
+<!--                 <a href="about.php" class="nav-item nav-link">About</a> -->
 <!--                 <a href="View/services.php" class="nav-item nav-link">Services</a> -->
 <!--                 <a href="View/appointment.php" class="nav-item nav-link">Appointments</a> -->
                 </div>
