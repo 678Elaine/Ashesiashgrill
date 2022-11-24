@@ -89,7 +89,7 @@
                 <!-- <a href="contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
             <a href="<?php if(isset($_SESSION['isLogin'])) 
-                                echo "login.php";
+                                echo "../View/login.php";
             
             ?>" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
 
