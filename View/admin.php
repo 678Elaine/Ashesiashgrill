@@ -91,7 +91,7 @@ require("../functions/getAllCategories.php");
             <!-- <a href="contact.php" class="nav-item nav-link active">Contact</a> -->
         </div>
         <a type="button" class="btn btn-primary py-2 px-4 d-none d-lg-block" data-toggle="modal" data-target="#exampleModalCategory">
-            Create Cateogory
+            Create Category
         </a>
         <span>&nbsp;</span>
         <a type="button" class="btn btn-primary py-2 px-4 d-none d-lg-block" data-toggle="modal" data-target="#exampleModalAppointment">
