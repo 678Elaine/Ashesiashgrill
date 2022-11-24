@@ -29,7 +29,7 @@ if (isset($_POST['submit'])) {
                 
             }
             else{
-                header("location:../View/booking.php");
+                header("location:../View/index.php");
 
             }
 
