@@ -109,7 +109,7 @@
                                     </div>
 
 
-                                    <form action="../Login/loginprocess.php" method="POST">
+                                    <form action="Login/loginprocess.php" method="POST">
 
 
                                         <div class="form-outline mb-4">
