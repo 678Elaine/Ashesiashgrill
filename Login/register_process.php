@@ -29,6 +29,7 @@
         echo "<script>
         alert('Email Or Phone Number Or Student id already exist');
         </script>";
+        header("location: ../Login/register_process.php");
 
     }
 
