@@ -69,21 +69,21 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
-            <h1 class="text-primary m-0"><img class="me-3" src="img/iconash.png" alt="Icon">AshGrill</h1>
+        <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
+            <h1 class="text-primary m-0"><img class="me-3" src="View/img/iconash.png" alt="Icon">AshGrill</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="View/index.php" class="nav-item nav-link">Home</a>
-                <a href="View/about.php" class="nav-item nav-link active">About</a>
-                <a href="View/services.php" class="nav-item nav-link">Services</a>
-                <a href="View/appointment.php" class="nav-item nav-link">Appointments</a>
+                <a href="index.php" class="nav-item nav-link">Home</a>
+                <a href="#" class="nav-item nav-link active">About</a>
+<!--                 <a href="View/services.php" class="nav-item nav-link">Services</a> -->
+<!--                 <a href="View/appointment.php" class="nav-item nav-link">Appointments</a> -->
                 <!-- <a href="View/contact.php" class="nav-item nav-link">Contact</a> -->
             </div>
-            <a href="View/booking.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
+            <a href="View/login.php" class="btn btn-primary py-2 px-4 d-none d-lg-block">Booking</a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -112,8 +112,8 @@
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                     <div class="about-img">
                         
-                        <img class="img-fluid" src="img/iconash.png" alt="">
-                        <img class="img-fluid" src="img/ashgrill.png" alt="">
+                        <img class="img-fluid" src="View/img/iconash.png" alt="">
+                        <img class="img-fluid" src="View/img/ashgrill.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
